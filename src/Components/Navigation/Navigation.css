@@ -1,0 +1,23 @@
+.nav-item{
+    font-size: 18px;
+    color: whitesmoke !important;
+    font-family: inherit ;
+    font-weight: 600;  
+    
+}
+
+.nav-item1{
+    font-size: 18px;
+    color: #ACEB1E !important;
+    font-family: inherit ;
+    font-weight: 600;
+    
+}
+.nav-item:hover{
+    color: #ACEB1E !important;
+}
+
+.main-nav{
+    margin-left: 100px;
+    
+}

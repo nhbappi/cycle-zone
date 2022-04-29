@@ -1,0 +1,96 @@
+[
+    {
+    "id": 1,
+    "name": "3T Bikes",
+    "description": "3TTT – Tecnologia del Tubo Torino started out making carbon fiber components for road race bikes in the beginning of 1961. The 3T Explore was the brands first gravel bike released in 2016 when the gravel industry started to hit off..",
+   "price": 2000,
+ "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/03/Ergobike-03.png"
+},
+
+{
+    "id": 2,
+    "name": " Alchemy Bicycles",
+    "price": 1420,
+    "description": "To build the best Bicycle in the world” is the motto of Alchemy Bicycles.It was their main mission when they started in 2008 and is still their main motivation today. The Denver based American brand pride themselves. ",
+    "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/03/Ergobike-02-300x300.png"
+},
+
+{
+    "id": 3,
+    "name": "Bianchi Bicycles",
+    "price": 7000,
+     "description": "1885, Italy – One of the oldest surviving bike brands in the world, Italian brand Bianchi is recognized by their turquoise-blue paint named ‘Celeste #227’. Bianchi road bikes have a racing pedigree, with multiple Grand.",
+    "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/03/Ergobike-01.png"
+    
+},
+{
+    "id": 4,
+    "name": "Brompton Bikes",
+    "price": 4000,
+    "description": "Brompton is one of the most iconic folding bicycle manufacturer. Their range consists of well-engineer folding, and electric folding bikes with rich history and attention to detail.Read our review to get a better understanding their attention to detail.",
+    "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/03/Ergobike-04-300x300.png"
+    
+},
+{
+    "id": 5,
+    "name": "Cannondale Bikes",
+    "price": 8000,
+    "description": "Cannondale is one of the most popular bicycle brands in the world. A relatively young brand, it was founded in 1971 in Connecticut, USA. One of the first brands to embrace carbon fiber in bike production, Cannondale is a firm rider favorite of our shop.",
+    "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/03/Ergobike-05-300x300.png"
+    
+},
+{
+    "id": 6,
+    "name": "Canyon Bicycles",
+    
+    "price": 5000,
+    "description": "Canyon Bicycles are favored by seasoned cyclists, or by anyone who has been looking for bikes with plenty of engineering behind the build.Canyon has taken a different approach regards building and marketing – their focus is to build bikes.",
+    
+    "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/03/Ergobike-01.png"
+    
+},
+{
+    "id": 7,
+    "name": "Retrospec Cycles",
+    "price": 6500,
+    "description": "Critical / Retrospec Cycles produce a wide range of bikes including; single-speed, fixie, city, beach cruisers, hybrid, folding, and kids bikes at accessible prices to encourage everyone to go outdoors. Riders love them because they are fast.",
+    "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/02/homebike-3-800x589.png"
+},
+{
+    "id": 8,
+    "name": "Cube Bikes",
+    "price": 5500,
+    "description": "Although a relatively young brand being founded in 1993, Cube cannot be omitted when talking about the best bike companies. This is a German brand, so Cube bikes are much more popular in Europe, than in the USA.",
+    "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/03/Ergobike-01-300x300.png"
+},
+{
+    "id": 9,
+    "name": "Devinci Cycles",
+    "price": 7500,
+    "description": "Critical / Retrospec Cycles produce a wide range of bikes including; single-speed, fixie, city, beach cruisers, hybrid, folding, and kids bikes at accessible prices to encourage everyone to go outdoors. Riders love them because they are fast.",
+    "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/03/Ergobike-02-300x300.png"
+},
+{
+    "id": 10,
+    "name": "Diamondback Bikes",
+    "price": 7500,
+    "description": "Critical / Retrospec Cycles produce a wide range of bikes including; single-speed, fixie, city, beach cruisers, hybrid, folding, and kids bikes at accessible prices to encourage everyone to go outdoors. Riders love them because they are fast.",
+    "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/03/Ergobike-05-300x300.png"
+},
+{
+    "id": 11,
+    "name": "Electra Bikes",
+    "price": 6500,
+    "description": "Critical / Retrospec Cycles produce a wide range of bikes including; single-speed, fixie, city, beach cruisers, hybrid, folding, and kids bikes at accessible prices to encourage everyone to go outdoors. Riders love them because they are fast.",
+    "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/03/Ergobike-03.png"
+},
+{
+    "id": 12,
+    "name": "Evil Bikes",
+    "price": 4500,
+    "description": "Critical / Retrospec Cycles produce a wide range of bikes including; single-speed, fixie, city, beach cruisers, hybrid, folding, and kids bikes at accessible prices to encourage everyone to go outdoors. Riders love them because they are fast.",
+    "image": "https://ergo.creativezeune.com/wp-content/uploads/sites/7/2021/03/Ergobike-04-300x300.png"
+}
+
+
+]
